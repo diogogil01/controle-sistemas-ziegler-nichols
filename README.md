@@ -8,8 +8,7 @@ O objetivo do trabalho foi aplicar o método de Ziegler-Nichols em malha aberta 
 
 ## Dados do trabalho
 
-**Aluno:** Diogo Gil de Oliveira
-**Matrícula:** 02320513
+**Alunos:** Bryan Goulart - 02320205, Diogo Gil de Oliveira - 02320513, Eduardo Peron - 02320356 e Emily Colen - 02320114
 **Curso:** Engenharia da Computação
 **Disciplina:** Controle de Sistemas Dinâmicos I
 **Professora:** Virginia Klausner de Oliveira
