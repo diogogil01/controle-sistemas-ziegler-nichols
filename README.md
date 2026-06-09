@@ -58,8 +58,9 @@ Com esses valores, foram calculados os parâmetros dos controladores P, PI e PID
 
 ## Arquivos do repositório
 
-* `Atividade_de_Controle_de_Sistemas_Dinâmicos.ipynb`: notebook com o código do projeto;
+* `Atividade_Controle_de_Sistemas_Dinâmicos.ipynb`: notebook com o código do projeto;
 * `Atividade_de_Controle_de_Sistemas_Dinâmicos.pdf`: documentação do trabalho;
+* `README.md.
 
 ## Conclusão
 
